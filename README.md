@@ -1,4 +1,4 @@
-# Hello world from git repo 
+# Hello world from git repo from local
 Some text  
 add one more lin  
 
