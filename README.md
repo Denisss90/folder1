@@ -1,4 +1,4 @@
-# Hello world from git repo from local
+# Hello world from git repo after solving the conflict
 Some text  
 add one more lin  
 
